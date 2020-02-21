@@ -1,2 +1,2 @@
-include ':app', ':liblog'
+include ':app', ':liblog', ':libandroidbase', ':libio'
 rootProject.name='AndroidCommons'
